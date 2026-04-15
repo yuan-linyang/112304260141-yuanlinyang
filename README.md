@@ -1,5 +1,10 @@
 # 机器学习实验仓库
 
+## 学生信息
+- **姓名**：
+- **学号**：
+- **班级**：
+
 ## 仓库说明
 
 本仓库用于管理机器学习课程实验，包含实验代码、实验报告和实验结果。
@@ -13,6 +18,15 @@
 ├── word2vec-nlp-tutorial/  # 原始实验数据
 └── README.md       # 仓库说明
 ```
+
+## 实验项目
+
+### 实验 1：基于 Word2Vec 的情感预测
+- **比赛**：Bag of Words Meets Bags of Popcorn
+- **比赛链接**：https://www.kaggle.com/c/word2vec-nlp-tutorial
+- **代码**：[code/word2vec_sentiment_analysis.py](code/word2vec_sentiment_analysis.py)
+- **报告**：[report/实验 2_Word2Vec 情感预测报告.md](report/实验 2_Word2Vec 情感预测报告.md)
+- **完成日期**：2026-04-16
 
 ## 使用指南
 
@@ -32,7 +46,7 @@ git add .
 git commit -m "实验 X：完成 XXX 功能"
 
 # 推送到 GitHub
-git push origin main
+git push origin master
 ```
 
 ### 3. 查看历史版本
@@ -55,7 +69,7 @@ git reset --hard <commit-hash>
 
 # 或者创建新分支保留当前状态
 git checkout -b backup-branch
-git checkout main
+git checkout master
 git reset --hard <good-commit-hash>
 ```
 
@@ -72,4 +86,4 @@ git reset --hard <good-commit-hash>
 
 | 实验编号 | 实验名称 | 完成日期 | 提交说明 |
 |---------|---------|---------|---------|
-| 实验 1   |         |         |         |
+| 实验 1   | 基于 Word2Vec 的情感预测 | 2026-04-16 | 初始化实验仓库 |
