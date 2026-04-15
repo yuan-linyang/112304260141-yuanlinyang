@@ -1,13 +1,25 @@
-# 实验仓库 - 112304260141-yuanlinyang
+# 机器学习实验仓库 - 112304260141-yuanlinyang
 
-学生姓名：袁林杨  
-学号：112304260141  
+**学生姓名**：袁林杨  
+**学号**：112304260141  
+**邮箱**：2548281676@qq.com
+
+---
+
+## 实验报告
+
+### 实验 2：基于 Word2Vec 的情感预测
+- 报告文件：[experiment2.md](experiment2.md)
+- 比赛链接：https://www.kaggle.com/c/word2vec-nlp-tutorial
+
+---
 
 ## 仓库结构
 
 - `code/` - 实验代码
 - `report/` - 实验报告
 - `results/` - 实验结果（截图、表格、日志等）
+- `images/` - Kaggle 成绩截图
 
 ## 使用说明
 
