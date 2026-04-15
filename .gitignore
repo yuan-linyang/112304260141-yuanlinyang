@@ -1,0 +1,74 @@
+# 敏感信息
+*.env
+.env
+*.pem
+*.key
+secret*
+password*
+token*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 大文件
+*.zip
+*.tar.gz
+*.rar
+*.7z
+*.iso
+*.img
+*.bin
+*.dat
+
+# 数据集（根据实际情况调整）
+datasets/
+data/large_*.csv
+data/*.h5
+data/*.pkl
+
+# 模型文件
+*.h5
+*.pth
+*.pt
+*.onnx
+*.pb
+models/checkpoints/
+
+# 日志文件
+*.log
+logs/
+
+# 临时文件
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
