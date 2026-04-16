@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+=======
 # 敏感信息
 *.env
 .env
@@ -7,6 +9,7 @@ secret*
 password*
 token*
 
+>>>>>>> 4ef6b5798edf56fd79976bd5c4a556f9391da58b
 # Python
 __pycache__/
 *.py[cod]
@@ -29,8 +32,16 @@ wheels/
 .installed.cfg
 *.egg
 
+<<<<<<< HEAD
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+=======
 # Jupyter Notebook
 .ipynb_checkpoints
+>>>>>>> 4ef6b5798edf56fd79976bd5c4a556f9391da58b
 
 # IDE
 .vscode/
@@ -39,6 +50,33 @@ wheels/
 *.swo
 *~
 
+<<<<<<< HEAD
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment variables
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+
+# Data files (too large)
+*.zip
+*.gz
+*.tar
+*.rar
+
+# Model files (too large)
+*.model
+*.bin
+*.vec
+=======
 # 大文件
 *.zip
 *.tar.gz
@@ -72,3 +110,4 @@ logs/
 *.temp
 .DS_Store
 Thumbs.db
+>>>>>>> 4ef6b5798edf56fd79976bd5c4a556f9391da58b

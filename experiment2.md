@@ -3,9 +3,15 @@
 ## 1. 学生信息
 - **姓名**：袁林杨
 - **学号**：112304260141
+<<<<<<< HEAD
+- **班级**：[请填写班级]
+
+> 注意：姓名和学号必须填写，否则本次实验提交无效。
+=======
 - **班级**：
 
 > 注意：姓名和学号必须填写，本次实验提交有效。
+>>>>>>> 4ef6b5798edf56fd79976bd5c4a556f9391da58b
 
 ---
 
@@ -22,12 +28,21 @@
 ---
 
 ## 3. 比赛与提交信息
+<<<<<<< HEAD
+- **比赛名称**：Bag of Words Meets Bags of Popcorn
+- **比赛链接**：https://www.kaggle.com/c/word2vec-nlp-tutorial
+- **提交日期**：2026 年 4 月 16 日
+
+- **GitHub 仓库地址**：https://github.com/yuan-linyang/112304260141-yuanlinyang
+- **GitHub README 地址**：https://github.com/yuan-linyang/112304260141-yuanlinyang/blob/main/README.md
+=======
 - **比赛名称**：Word2Vec NLP Tutorial
 - **比赛链接**：https://www.kaggle.com/c/word2vec-nlp-tutorial
 - **提交日期**：2026 年 4 月 15 日
 
 - **GitHub 仓库地址**：https://github.com/yuan-linyang/112304260141-yuanlinyang
 - **GitHub README 地址**：https://github.com/yuan-linyang/112304260141-yuanlinyang
+>>>>>>> 4ef6b5798edf56fd79976bd5c4a556f9391da58b
 
 > 注意：GitHub 仓库首页或 README 页面中，必须能看到"姓名 + 学号"，否则无效。
 
@@ -36,9 +51,15 @@
 ## 4. Kaggle 成绩
 请填写你最终提交到 Kaggle 的结果：
 
+<<<<<<< HEAD
+- **Public Score**：[请填写]
+- **Private Score**（如有）：[请填写]
+- **排名**（如能看到可填写）：[请填写]
+=======
 - **Public Score**：
 - **Private Score**（如有）：
 - **排名**（如能看到可填写）：
+>>>>>>> 4ef6b5798edf56fd79976bd5c4a556f9391da58b
 
 ---
 
@@ -48,7 +69,11 @@
 ![Kaggle 截图](./images/kaggle_score.png)
 
 > 建议将截图保存在 `images` 文件夹中。  
+<<<<<<< HEAD
+> 截图文件名示例：`2023123456_张三_kaggle_score.png`
+=======
 > 截图文件名示例：112304260141_袁林杨_kaggle_score.png
+>>>>>>> 4ef6b5798edf56fd79976bd5c4a556f9391da58b
 
 ---
 
@@ -120,6 +145,16 @@
 
 **我的项目结构：**
 ```text
+<<<<<<< HEAD
+project/
+├─ data/
+├─ src/
+├─ notebooks/
+├─ images/
+├─ submission/
+└─ README.md
+```
+=======
 112304260141-yuanlinyang/
 ├─ code/              # 实验代码
 ├─ report/            # 实验报告
@@ -140,3 +175,4 @@
 
 **遇到的问题及解决方案：**  
 请在这里填写。
+>>>>>>> 4ef6b5798edf56fd79976bd5c4a556f9391da58b
